@@ -1,0 +1,24 @@
+{
+  "name": "one-app",
+  "homepage": "https://github.com/alexmtur/one-app",
+  "authors": [
+    "Alex Martin <alexmartinturrillas@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest",
+    "platinum-sw": "PolymerElements/platinum-sw#^1.3.0",
+    "web-animations-js": "^2.2.5",
+    "polymerfire": "firebase/polymerfire#^2.1.0"
+  },
+  "devDependencies": {}
+}
